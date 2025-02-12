@@ -1,5 +1,7 @@
 # kickstart.nvim
 
+##Took Kickatrt setup and added some of Primeagen's changes
+
 ## Introduction
 
 A starting point for Neovim that is:
